@@ -1,8 +1,8 @@
 # One Line of Earned Pride
 
 [![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
-[![make.fun · rank](https://make.fun/badge/dajinxiaodui/earned-pride-27-nov-2026/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
-[![make.fun · reward](https://make.fun/badge/dajinxiaodui/earned-pride-27-nov-2026/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/dajinxiaodui/earned-pride-27-nov-2026/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/dajinxiaodui/earned-pride-27-nov-2026/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 
 One line, written fresh for the make.fun bounty
 [u-mang-one-line-of-earned-pride-a0138557](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557):
